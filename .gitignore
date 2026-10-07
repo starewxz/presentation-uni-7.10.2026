@@ -1,0 +1,5 @@
+node_modules
+dist
+.claude
+pdf/source.html
+.DS_Store
